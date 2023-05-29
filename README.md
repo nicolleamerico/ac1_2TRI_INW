@@ -1,6 +1,12 @@
-# ac1_2TRI_INW
-react - loja pneus
+# Integrantes 3emib
+- Luiz Aragão
+- Luiza Ribeiro
+- Nicolle Américo
 
-## Comandos ao baixar
+# Comandos
 - npm i
+- npm i bootstrap
+- npm i react-router-dom
+- npm i redux react-redux
 - npm start
+

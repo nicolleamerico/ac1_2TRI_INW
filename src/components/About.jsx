@@ -8,20 +8,11 @@ const About = () => {
           <div className="col-md-6">
             <h1 className="text-dark fw-bold mb-4">Sobre nós</h1>
             <p>
-              A criação da nossa empresa de floricultura foi um empreendimento
-              desafiador e exigente, que requer planejamento cuidadoso,
-              conhecimento especializado e dedicação à excelência. Para ter
-              sucesso neste mercado, é necessário compreender profundamente as
-              necessidades dos clientes, a dinâmica do mercado e as melhores
-              práticas de negócios.{" "}
+            Atualmente, a loja de pneus possui uma vasta seleção de marcas e modelos, desde pneus para carros de passeio até veículos pesados. Além disso, ela oferece serviços especializados, como alinhamento de rodas, balanceamento e troca de pneus. Os clientes podem confiar na experiência e na qualidade da loja, sabendo que suas necessidades serão atendidas com profissionalismo e atenção.{" "}
             </p>
             <p>
               {" "}
-              O primeiro passo foi realizar uma pesquisa de mercado abrangente,
-              para identificar as oportunidades e os desafios deste setor. A
-              localização ideal deve ser de fácil acesso para os clientes, e
-              preferencialmente em áreas com grande circulação de pessoas, como
-              centros comerciais, regiões turísticas e áreas residenciais.{" "}
+              Ao chegar a 2023, a loja de pneus celebra oito anos de sucesso e crescimento contínuo. Sua reputação como um destino confiável para pneus de alta qualidade e serviços excepcionais continua a se fortalecer. Com uma visão clara, compromisso com a qualidade e dedicação à satisfação do cliente, a loja de pneus está pronta para qualquer desafio!{" "}
             </p>
           </div>
           <div className="col-md-6 d-flex justify-content-center">
@@ -39,23 +30,17 @@ const About = () => {
             <img
               src="https://cdn.discordapp.com/attachments/719956666254098446/1104604037384515625/timeempresa.jpg"
               alt="About Us"
-              height="250px"
+              height="350px"
               width="400px"
             />
           </div>
           <div className="col-md-6">
             <p>
               {" "}
-              Outro fator importante foi a seleção de um fornecedor confiável de
-              flores e plantas, que ofereça produtos frescos e de alta
-              qualidade. É fundamental estabelecer parcerias com fornecedores
-              locais e internacionais, para garantir um estoque diversificado e
-              adequado às necessidades dos clientes. Além disso, a equipe de
-              funcionários da loja de flores deve ser altamente qualificada e
-              treinada, com habilidades em arranjos florais, decoração de
-              eventos e atendimento ao cliente. É importante investir em
-              capacitação contínua, para manter a qualidade do serviço e a
-              satisfação dos clientes.
+              A fundação dessa loja de pneus foi impulsionada pela paixão de um empreendedor chamado Carlos. Ele percebeu a necessidade de uma loja especializada que oferecesse uma ampla variedade de pneus de alta qualidade, atendendo às demandas de motoristas exigentes. Com determinação e visão, Carlos estabeleceu a loja com uma equipe dedicada, pronta para fornecer um serviço excepcional e uma experiência de compra única.
+            </p>
+            <p>
+              Desde o início, a loja se comprometeu a oferecer produtos de excelência, mantendo-se atualizada com as tendências e inovações da indústria de pneus. Parcerias estratégicas com os principais fabricantes permitiram que a loja oferecesse uma ampla seleção de marcas e modelos, atendendo a todas as necessidades e preferências dos clientes.
             </p>
           </div>
         </div>

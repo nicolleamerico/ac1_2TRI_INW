@@ -1,45 +1,45 @@
 const DATA = [
     {
         id : 0,
-        title : "Rosa",
-        price : 120,
+        title : "Roda - BMW",
+        price : 1920,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
-        img : "/assets/images/products/rosarosa.png"
+        img : "/assets/images/products/1pneu.png"
     },
     {
         id : 1,
-        title : "Orquídea Azul",
-        price : 100,
+        title : "Pneu Aro 13",
+        price : 209,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
-        img : "/assets/images/products/orquideaa.png"
+        img : "/assets/images/products/2pneu.png"
     },
     {
         id : 2,
-        title : "Tulipa Vermelha",
-        price : 90,
+        title : "Pneu Pirelli 225",
+        price : 900,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
-        img : "/assets/images/products/tulipa.png"
+        img : "/assets/images/products/3pneu.png"
     },
     {
         id : 3,
-        title : "Samambaia Americana",
-        price : 40,
+        title : "Pneu 175/70R14",
+        price : 330,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
-        img : "https://media.discordapp.net/attachments/1062118007586959381/1104612296078131214/samambaia.png?width=625&height=625"
+        img : "/assets/images/products/4pneu.png"
     },
     {
         id : 4,
-        title : "Pau Brasil",
-        price : 50,
+        title : "Pneu Bicicleta Aro 26",
+        price : 35,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
-        img : "https://media.discordapp.net/attachments/1062118007586959381/1104617911387181092/pauBrasil.png?width=625&height=625"
+        img : "/assets/images/products/5pneu.png"
     },
     {
         id : 5,
-        title : "Margarida",
-        price : 70,
+        title : "Pneu 14.9 Caminhão",
+        price : 1600,
         desc : "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.",
-        img : "/assets/images/products/margarida.png"
+        img : "/assets/images/products/6pneu.png"
     }
 ]
 

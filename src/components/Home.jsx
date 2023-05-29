@@ -30,30 +30,44 @@ const Home = () => {
             data-bs-slide-to="2"
             aria-label="Slide 3"
           ></button>
+          <button
+            type="button"
+            data-bs-target="#carouselExampleIndicators"
+            data-bs-slide-to="3"
+            aria-label="Slide 4"
+          ></button>
         </div>
         <div class="carousel-inner">
           <div class="carousel-item active">
             <img
-              src="https://media.discordapp.net/attachments/958144099603591178/1104597880230137957/flor.png?width=1440&height=533"
+              src="/assets/images/cards/1carro.png"
               class="d-block w-100"
               alt=""
-              height="500px"
+              height="600px"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="https://media.discordapp.net/attachments/958144099603591178/1104598353284694016/flor3.png?width=1440&height=533"
+              src="/assets/images/cards/carro2.png"
               class="d-block w-100"
               alt="IPhone"
-              height="500px"
+              height="600px"
             />
           </div>
           <div class="carousel-item">
             <img
-              src="https://media.discordapp.net/attachments/1044253591789117440/1104599675769729044/flor3.png?width=1440&height=533"
+              src="/assets/images/cards/carro3.png"
               class="d-block w-100"
               alt="IPhone"
-              height="500px"
+              height="600px"
+            />
+          </div>
+          <div class="carousel-item">
+            <img
+              src="/assets/images/cards/carro4.png"
+              class="d-block w-100"
+              alt="IPhone"
+              height="600px"
             />
           </div>
         </div>
@@ -84,34 +98,9 @@ const Home = () => {
           <div className="row">
             
             <div className="col-12 text-center">
-              <h1 className="text-dark fw-bold mb-4 text-center">
-                Nosso trabalho
-              </h1>
-              <p>
-                Nossos talentosos floristas estão sempre prontos para criar
-                arranjos espetaculares, combinando habilmente diferentes tipos
-                de flores, folhagens e acessórios, para transmitir emoções e
-                contar histórias. Cada arranjo é único e personalizado, feito
-                com amor e dedicação, garantindo que cada pétala e cada folha
-                estejam no lugar certo.
-              </p>
-              <p>
-                Além das flores cortadas e dos arranjos, também oferecemos uma
-                variedade de plantas de interior e de jardim, para adicionar um
-                toque de verde e frescor aos seus espaços. Se você é um
-                jardineiro entusiasta ou está apenas começando a explorar o
-                mundo das plantas, nossa equipe estará feliz em compartilhar
-                conhecimentos e dicas para ajudá-lo a cuidar das suas plantas
-                com carinho e sucesso
-              </p>
-              <p>
-                Na nossa floricultura, você também encontrará uma seleção de
-                presentes encantadores, como vasos elegantes, cestas de
-                presentes temáticas e acessórios exclusivos. Complemente seu
-                arranjo floral com um toque especial e torne-o ainda mais
-                memorável.
-              </p>
-              <hr />
+                <a href="/products" className="text-dark fw-bold mb-4 text-center arrumar">
+                    Veja mais...
+                </a>
             </div>
           </div>
         </div>

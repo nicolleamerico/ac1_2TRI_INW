@@ -37,10 +37,10 @@ const Home = () => {
             aria-label="Slide 4"
           ></button>
         </div>
-        <div class="carousel-inner">
+        <div class="carousel-inner" style={{ marginBottom: "200px" }}>
           <div class="carousel-item active">
             <img
-              src="/assets/images/cards/1carro.png"
+              src="/assets/images/cards/ft3.png"
               class="d-block w-100"
               alt=""
               height="600px"
@@ -48,7 +48,7 @@ const Home = () => {
           </div>
           <div class="carousel-item">
             <img
-              src="/assets/images/cards/carro2.png"
+              src="/assets/images/cards/ft2.png"
               class="d-block w-100"
               alt="IPhone"
               height="600px"
@@ -56,7 +56,7 @@ const Home = () => {
           </div>
           <div class="carousel-item">
             <img
-              src="/assets/images/cards/carro3.png"
+              src="/assets/images/cards/ft.png"
               class="d-block w-100"
               alt="IPhone"
               height="600px"
@@ -64,7 +64,7 @@ const Home = () => {
           </div>
           <div class="carousel-item">
             <img
-              src="/assets/images/cards/carro4.png"
+              src="/assets/images/cards/ft4.png"
               class="d-block w-100"
               alt="IPhone"
               height="600px"
@@ -97,8 +97,8 @@ const Home = () => {
         <div className="container py-5">
           <div className="row">
             
-            <div className="col-12 text-center">
-                <a href="/products" className="text-dark fw-bold mb-4 text-center arrumar">
+            <div className="col-12 text-center" >
+                <a href="/products" className="text-dark fw-bold mb-4 text-center arrumar" style={{ marginTop: "20px" }}>
                     Veja mais...
                 </a>
             </div>

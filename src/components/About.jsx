@@ -17,10 +17,11 @@ const About = () => {
           </div>
           <div className="col-md-6 d-flex justify-content-center">
             <img
-              src="/assets/about.png"
+              src="/assets/images/about1.png"
               alt="About Us"
               height="400px"
               width="400px"
+              style={{ marginBottom: "100px" }}
             />
           </div>
         </div>
@@ -28,13 +29,15 @@ const About = () => {
         <div className="row">
           <div className="col-md-6 d-flex justify-content-center">
             <img
-              src="https://cdn.discordapp.com/attachments/719956666254098446/1104604037384515625/timeempresa.jpg"
+              src="/assets/images/about.png"
               alt="About Us"
-              height="350px"
-              width="400px"
+              height="300px"
+              width="450px"
+              style={{ marginBottom: "100px" }}
             />
           </div>
           <div className="col-md-6">
+            <h3 className="text-dark mb-4">Como surgiu?</h3>
             <p>
               {" "}
               A fundação dessa loja de pneus foi impulsionada pela paixão de um empreendedor chamado Carlos. Ele percebeu a necessidade de uma loja especializada que oferecesse uma ampla variedade de pneus de alta qualidade, atendendo às demandas de motoristas exigentes. Com determinação e visão, Carlos estabeleceu a loja com uma equipe dedicada, pronta para fornecer um serviço excepcional e uma experiência de compra única.
@@ -42,33 +45,6 @@ const About = () => {
             <p>
               Desde o início, a loja se comprometeu a oferecer produtos de excelência, mantendo-se atualizada com as tendências e inovações da indústria de pneus. Parcerias estratégicas com os principais fabricantes permitiram que a loja oferecesse uma ampla seleção de marcas e modelos, atendendo a todas as necessidades e preferências dos clientes.
             </p>
-          </div>
-        </div>
-      </div>
-
-      <div>
-        <div className="container py-5 my-5">
-          <div className="col-12 text-center">
-            <h1 className="text-dark fw-bold mb-4">Contato</h1>
-            <hr />
-          </div>
-
-          <div className="row">
-            <div className="col-md-6 d-flex justify-content-center">
-              <img
-                src="/assets/about.png"
-                alt="About Us"
-                height="350px"
-                width="400px"
-              />
-            </div>
-            <div className="col-md-6">
-              <p> Email: queroPneu@gmail.com</p>
-              <p> Telefone:(11) 2240-8033</p>
-              <p> WhatsApp: (11) 94172-8033</p>
-              <p> Encontre nossa loja: Av La Isla, 512 - Quack, São Paulo</p>
-              <p></p>
-            </div>
           </div>
         </div>
       </div>

@@ -58,6 +58,13 @@ code {
   
 }
 
+.imgLogo{
+  margin-bottom: 15px;
+  display: flex;
+  align-items: flex-end;
+  
+}
+
 .controle{
   justify-content: center;
 }

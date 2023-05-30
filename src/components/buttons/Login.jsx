@@ -58,7 +58,7 @@ const Login = () => {
                   />
                 </div>
                 <div className="mb-3 form-check">
-                  <p>Feito com ❤️ por Luiza, Nicolle e Luiz (CEO's)</p>
+                  <p>Feito com ❤️ por Nicolle</p>
                 </div>
                 <button
                   type="submit"

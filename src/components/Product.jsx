@@ -5,14 +5,12 @@ import DATA from "../Data";
 const Product = () => {
   const cardItem = (item) => {
     return (
-      <div class="card my-5 py-4" key={item.id} style={{ width: "18rem", height: "30rem" }}>
+      <div class="card my-5 py-4" key={item.id} style={{ width: "18rem", height: "24rem" }}>
         <div className="tudo">
           <img src={item.img} class="img-card" alt={item.title} style={{ width: "15rem", height: "15rem" }} />
           <div class="card-body text-center">
             <h5 class="card-title">{item.title}</h5>
             <p className="lead">R${item.price}</p>
-            <button> <a href="/contact" className="arrumar">Leia Mais</a> </button>
-            {/* <Button variant="primary"> <a href="/contact" className="arrumar">Leia Mais</a> </Button> */}
           </div>
         </div>
       </div>

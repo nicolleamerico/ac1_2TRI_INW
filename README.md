@@ -1,12 +1,9 @@
-# Integrantes 3emib
-- Luiz Aragão
-- Luiza Ribeiro
+# Loja de Pneus - React
 - Nicolle Américo
 
 # Comandos
 - npm i
-- npm i bootstrap
-- npm i react-router-dom
-- npm i redux react-redux
 - npm start
-
+- npm i bootstrap (criação/as vezes)
+- npm i react-router-dom (criação/as vezes)
+- npm i redux react-redux (criação/as vezes)

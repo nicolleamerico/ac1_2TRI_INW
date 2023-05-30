@@ -9,12 +9,11 @@ body {
 
 .logo {
   height: 6em;
-  padding: 1em;
   will-change: filter;
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #313131);
+  filter: drop-shadow(0 0 2em #f03800);
 }
 
 code {
@@ -23,7 +22,7 @@ code {
 }
 /* Navbar */
 .navbar-nav li a{
-  font-size: 17px;
+  font-size: 20px;
 }
 .navbar-brand{
   letter-spacing: 3px;
@@ -54,14 +53,7 @@ code {
 .imgTotal{
   margin-bottom: 15px;
   display: flex;
-  align-items: flex-end;
-  
-}
-
-.imgLogo{
-  margin-bottom: 15px;
-  display: flex;
-  align-items: flex-end;
+  align-items: flex-start;
   
 }
 
@@ -76,7 +68,7 @@ code {
 }
 .card:hover{
   transform: scale(1.1);
-  box-shadow: 5px 5px 10px rgba(43, 43, 43, 0.308);
+  box-shadow: 5px 5px 10px rgba(187, 59, 0, 0.5);
 }
 .img-card{
   width: 260px;

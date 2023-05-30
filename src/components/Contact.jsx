@@ -7,7 +7,7 @@ const Contact = () => {
         <div className="row">
           <div className="col-12 text-center py-4 my-4">
             <h1 className="text-dark fw-bold mb-4" style={{ marginTop: "50px" }}>Fale Conosco</h1>
-            <hr />
+            <hr style={{ color: "orangered" }}/>
           </div>
         </div>
         <div className="row">
@@ -17,6 +17,7 @@ const Contact = () => {
               alt="Contact Us"
               height="350px"
               width="450px"
+              style={{ marginBottom: "100px" }}
             />
           </div>
           <div className="col-md-6">

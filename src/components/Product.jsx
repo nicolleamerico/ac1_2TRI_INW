@@ -23,7 +23,7 @@ const Product = () => {
         <div className="row">
           <div className="col-12 text-center">
             <h1 className="text-dark fw-bold mb-4">Produtos</h1>
-            <hr />
+            <hr style={{ color: "orangered" }}/>
           </div>
         </div>
       </div>

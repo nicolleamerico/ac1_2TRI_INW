@@ -33,7 +33,7 @@ const Header = () => {
               </li>
               <li className="nav-item">
                 <NavLink className="nav-link" to="/about">
-                  Sobre nós
+                  Sobre
                 </NavLink>
               </li>
               <li className="nav-item">
@@ -44,7 +44,7 @@ const Header = () => {
             </ul>
             <NavLink className="navbar-brand mx-auto fw-bold logo" to="/">
               {" "}
-              <img src="floribela.svg" alt="" width={100} height={100} />{" "}
+              <img src="pneumotors.svg" alt="" width={100} height={100} />{" "}
             </NavLink>
             <Login />
             <Signup />
